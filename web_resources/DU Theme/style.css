@@ -1,0 +1,153 @@
+/* content sectioning */
+.user_content address {}
+
+.user_content article {}
+
+.user_content aside {}
+
+.user_content footer {}
+
+.user_content header {}
+
+.user_content h2 {}
+
+.user_content h3 {}
+
+.user_content h4 {}
+
+.user_content h5 {}
+
+.user_content h6 {}
+
+.user_content nav {}
+
+.user_content section {}
+
+/* text content */
+.user_content blockquote {}
+
+.user_content dd {}
+
+.user_content div {}
+
+.user_content dl {}
+
+.user_content dt {}
+
+.user_content hr {}
+
+.user_content li {}
+
+.user_content ol {}
+
+.user_content p {}
+
+.user_content pre {}
+
+.user_content ul {}
+
+/* inline text semantics */
+.user_content a {}
+
+.user_content b {}
+
+.user_content bdo {}
+
+.user_content br {}
+
+.user_content cite {}
+
+.user_content code {}
+
+.user_content dfn {}
+
+.user_content em {}
+
+.user_content i {}
+
+.user_content kbd {}
+
+.user_content q {}
+
+.user_content samp {}
+
+.user_content small {}
+
+.user_content span {}
+
+.user_content strong {}
+
+.user_content sub {}
+
+.user_content sup {}
+
+.user_content time {}
+
+.user_content u {}
+
+.user_content var {}
+
+/* image and multimedia */
+.user_content area {}
+
+.user_content audio {}
+
+.user_content img {}
+
+.user_content map {}
+
+.user_content track {}
+
+.user_content video {}
+
+/* embedded content */
+.user_content embed {}
+
+.user_content iframe {}
+
+.user_content object {}
+
+.user_content param {}
+
+/* demarcating edits */
+.user_content del {}
+
+.user_content ins {}
+
+/* table content */
+.user_content caption {}
+
+.user_content col {}
+
+.user_content colgroup {}
+
+.user_content table {}
+
+.user_content tbody {}
+
+.user_content td {}
+
+.user_content tfoot {}
+
+.user_content th {}
+
+.user_content thead {}
+
+.user_content tr {}
+
+/* forms */
+.user_content legend {}
+
+/* interactive elements */
+.user_content details {}
+
+.user_content summary {}
+
+/* obsolete and deprecated elements */
+.user_content acronym {}
+
+.user_content big {}
+
+.user_content strike {}
+
+.user_content tt {}

@@ -42,5 +42,8 @@
     <resource identifier="g1058d65ce142a0ecd7b1ede8a58a8235" type="webcontent" href="wiki_content/home-page.html">
       <file href="wiki_content/home-page.html"/>
     </resource>
+    <resource identifier="g67b3bf99a4d040478c5eeee8ccdfe43b" href="web_resources/DU Theme/style.css" type="webcontent">
+      <file href="web_resources/DU Theme/style.css"/>
+    </resource>
   </resources>
 </manifest>
