@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest identifier="g7d84789646e7f0012fb051242637d773" xmlns="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1" xmlns:lom="http://ltsc.ieee.org/xsd/imsccv1p1/LOM/resource" xmlns:lomimscc="http://ltsc.ieee.org/xsd/imsccv1p1/LOM/manifest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1 http://www.imsglobal.org/profile/cc/ccv1p1/ccv1p1_imscp_v1p2_v1p0.xsd http://ltsc.ieee.org/xsd/imsccv1p1/LOM/resource http://www.imsglobal.org/profile/cc/ccv1p1/LOM/ccv1p1_lomresource_v1p0.xsd http://ltsc.ieee.org/xsd/imsccv1p1/LOM/manifest http://www.imsglobal.org/profile/cc/ccv1p1/LOM/ccv1p1_lommanifest_v1p0.xsd">
+<manifest
+  identifier="g7d84789646e7f0012fb051242637d773"
+  xmlns="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1"
+  xmlns:lom="http://ltsc.ieee.org/xsd/imsccv1p1/LOM/resource"
+  xmlns:lomimscc="http://ltsc.ieee.org/xsd/imsccv1p1/LOM/manifest"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1 http://www.imsglobal.org/profile/cc/ccv1p1/ccv1p1_imscp_v1p2_v1p0.xsd http://ltsc.ieee.org/xsd/imsccv1p1/LOM/resource http://www.imsglobal.org/profile/cc/ccv1p1/LOM/ccv1p1_lomresource_v1p0.xsd http://ltsc.ieee.org/xsd/imsccv1p1/LOM/manifest http://www.imsglobal.org/profile/cc/ccv1p1/LOM/ccv1p1_lommanifest_v1p0.xsd">
   <metadata>
     <schema>IMS Common Cartridge</schema>
     <schemaversion>1.1.0</schemaversion>
@@ -28,8 +34,7 @@
   </metadata>
   <organizations>
     <organization identifier="org_1" structure="rooted-hierarchy">
-      <item identifier="LearningModules">
-      </item>
+      <item identifier="LearningModules"></item>
     </organization>
   </organizations>
   <resources>
@@ -38,6 +43,9 @@
       <file href="course_settings/files_meta.xml"/>
       <file href="course_settings/media_tracks.xml"/>
       <file href="course_settings/canvas_export.txt"/>
+    </resource>
+    <resource identifier="g102ff8bf3c04422689c64201f5cc7e8c" type="webcontent" href="wiki_content/conversations-series.html">
+      <file href="wiki_content/conversation-series.html"/>
     </resource>
     <resource identifier="g1058d65ce142a0ecd7b1ede8a58a8235" type="webcontent" href="wiki_content/home-page.html">
       <file href="wiki_content/home-page.html"/>
