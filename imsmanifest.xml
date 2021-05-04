@@ -47,6 +47,9 @@
     <resource identifier="g102ff8bf3c04422689c64201f5cc7e8c" type="webcontent" href="wiki_content/conversations-series.html">
       <file href="wiki_content/conversation-series.html"/>
     </resource>
+    <resource identifier="gae2549a9f07d41ae92c37ec908206480" type="webcontent" href="wiki_content/faculty-seminar-series.html">
+      <file href="wiki_content/faculty-seminar-series.html"/>
+    </resource>
     <resource identifier="g1058d65ce142a0ecd7b1ede8a58a8235" type="webcontent" href="wiki_content/home-page.html">
       <file href="wiki_content/home-page.html"/>
     </resource>
