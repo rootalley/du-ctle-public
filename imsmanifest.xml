@@ -44,6 +44,9 @@
       <file href="course_settings/media_tracks.xml"/>
       <file href="course_settings/canvas_export.txt"/>
     </resource>
+    <resource identifier="g0984da9a8b519386b1a665e0c6ab4ca1" type="webcontent" href="wiki_content/academic-publishing.html">
+      <file href="wiki_content/academic-publishing.html"/>
+    </resource>
     <resource identifier="g102ff8bf3c04422689c64201f5cc7e8c" type="webcontent" href="wiki_content/conversations-series.html">
       <file href="wiki_content/conversation-series.html"/>
     </resource>
