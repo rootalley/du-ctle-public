@@ -62,6 +62,9 @@
     <resource identifier="gce3a2029aba44ab0c687a6d5b22069db" type="webcontent" href="wiki_content/course-evaluations.html">
       <file href="wiki_content/course-evaluations.html"/>
     </resource>
+    <resource identifier="g11c6d930de487f93e176d13b26f6b2f4" type="webcontent" href="wiki_content/course-modalities.html">
+      <file href="wiki_content/course-modalities.html"/>
+    </resource>
     <resource identifier="g102ff8bf3c04422689c64201f5cc7e8c" type="webcontent" href="wiki_content/conversations-series.html">
       <file href="wiki_content/conversation-series.html"/>
     </resource>
