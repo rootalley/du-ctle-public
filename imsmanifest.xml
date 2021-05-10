@@ -59,6 +59,9 @@
     <resource identifier="gcbe4df74ae70b1006ed7d11b01d1038e" type="webcontent" href="wiki_content/consultations.html">
       <file href="wiki_content/consultations.html"/>
     </resource>
+    <resource identifier="g102ff8bf3c04422689c64201f5cc7e8c" type="webcontent" href="wiki_content/conversations-series.html">
+      <file href="wiki_content/conversation-series.html"/>
+    </resource>
     <resource identifier="gce3a2029aba44ab0c687a6d5b22069db" type="webcontent" href="wiki_content/course-evaluations.html">
       <file href="wiki_content/course-evaluations.html"/>
     </resource>
@@ -74,23 +77,26 @@
     <resource identifier="gf6fed89cd033aed25e6854e2df712575" type="webcontent" href="wiki_content/education-statistics.html">
       <file href="wiki_content/education-statistics.html"/>
     </resource>
+    <resource identifier="gae2549a9f07d41ae92c37ec908206480" type="webcontent" href="wiki_content/faculty-seminar-series.html">
+      <file href="wiki_content/faculty-seminar-series.html"/>
+    </resource>
     <resource identifier="g2b068c98f381d284bebbac45d7fbe61f" type="webcontent" href="wiki_content/framing-documentation.html">
       <file href="wiki_content/framing-documentation.html"/>
     </resource>
     <resource identifier="gcfe03fe5cd03a95921d2ad42584f9960" type="webcontent" href="wiki_content/general-teaching-resources.html">
       <file href="wiki_content/general-teaching-resources.html"/>
     </resource>
-    <resource identifier="g102ff8bf3c04422689c64201f5cc7e8c" type="webcontent" href="wiki_content/conversations-series.html">
-      <file href="wiki_content/conversation-series.html"/>
-    </resource>
-    <resource identifier="gae2549a9f07d41ae92c37ec908206480" type="webcontent" href="wiki_content/faculty-seminar-series.html">
-      <file href="wiki_content/faculty-seminar-series.html"/>
+    <resource identifier="gc70b5c8c0b88a64772637afea8ecee9f" type="webcontent" href="wiki_content/global-learning.html">
+      <file href="wiki_content/global-learning.html"/>
     </resource>
     <resource identifier="g1058d65ce142a0ecd7b1ede8a58a8235" type="webcontent" href="wiki_content/home-page.html">
       <file href="wiki_content/home-page.html"/>
     </resource>
     <resource identifier="g67b3bf99a4d040478c5eeee8ccdfe43b" href="web_resources/DU Theme/style.css" type="webcontent">
       <file href="web_resources/DU Theme/style.css"/>
+    </resource>
+    <resource type="webcontent" identifier="gdaa6b9ac3bb61c4d6ec3fa4240e87596" href="web_resources/images/global_learning.jpeg">
+      <file href="web_resources/images/global_learning.jpeg"/>
     </resource>
   </resources>
 </manifest>
