@@ -98,11 +98,20 @@
     <resource identifier="g1058d65ce142a0ecd7b1ede8a58a8235" type="webcontent" href="wiki_content/home-page.html">
       <file href="wiki_content/home-page.html"/>
     </resource>
+    <resource identifier="g4b9d1f27847d3fc8b12d640fb86882a4" type="webcontent" href="wiki_content/learning-styles.html">
+      <file href="wiki_content/learning-styles.html"/>
+    </resource>
     <resource identifier="g67b3bf99a4d040478c5eeee8ccdfe43b" href="web_resources/DU Theme/style.css" type="webcontent">
       <file href="web_resources/DU Theme/style.css"/>
     </resource>
+    <resource type="webcontent" identifier="g2dd0d0751701f44ce0700dfdbb9071f9" href="web_resources/images/dunn_learning_styles.png">
+      <file href="web_resources/images/dunn_learning_styles.png"/>
+    </resource>
     <resource type="webcontent" identifier="gdaa6b9ac3bb61c4d6ec3fa4240e87596" href="web_resources/images/global_learning.jpeg">
       <file href="web_resources/images/global_learning.jpeg"/>
+    </resource>
+    <resource type="webcontent" identifier="g7719243f967b897c797dbf99e91d83c4" href="web_resources/images/learning_styles.jpeg">
+      <file href="web_resources/images/learning_styles.jpeg"/>
     </resource>
   </resources>
 </manifest>
