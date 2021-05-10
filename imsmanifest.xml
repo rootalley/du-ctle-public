@@ -50,6 +50,9 @@
     <resource identifier="gd0c06ec818c705f8307d8a425ae21e5f" type="webcontent" href="wiki_content/active-learning.html">
       <file href="wiki_content/active-learning.html"/>
     </resource>
+    <resource identifier="g6fbadfdc531688add0094788e0b291f0" type="webcontent" href="wiki_content/assesment.html">
+      <file href="wiki_content/assesment.html"/>
+    </resource>
     <resource identifier="g102ff8bf3c04422689c64201f5cc7e8c" type="webcontent" href="wiki_content/conversations-series.html">
       <file href="wiki_content/conversation-series.html"/>
     </resource>
