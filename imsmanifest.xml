@@ -53,6 +53,9 @@
     <resource identifier="g6fbadfdc531688add0094788e0b291f0" type="webcontent" href="wiki_content/assesment.html">
       <file href="wiki_content/assesment.html"/>
     </resource>
+    <resource identifier="gc27974e330bc4f3d9c61a94c4b0e4d60" type="webcontent" href="wiki_content/book-club.html">
+      <file href="wiki_content/book-club.html"/>
+    </resource>
     <resource identifier="g102ff8bf3c04422689c64201f5cc7e8c" type="webcontent" href="wiki_content/conversations-series.html">
       <file href="wiki_content/conversation-series.html"/>
     </resource>
