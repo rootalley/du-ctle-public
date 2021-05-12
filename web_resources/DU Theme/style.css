@@ -1,12 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@0;1&display=swap');
 /* content sectioning */
+.user_content {
+  color: #333;
+}
 .user_content address {}
 .user_content article {}
 .user_content aside {}
 .user_content footer {}
 .user_content header {}
 .user_content h2 {
-  color: #333;
   font-size: 1.375rem;
   letter-spacing: 0.09375rem;
   line-height: 1.6875rem;
@@ -29,7 +31,6 @@
 .user_content li {}
 .user_content ol {}
 .user_content p {
-  color: #333;
   font-size: 1.125rem;
   line-height: 1.6875rem;
   margin: 1.6875rem 0;
@@ -168,6 +169,17 @@
 .event-list li p.event-presenters {
   font-size: 0.875rem;
   line-height: 1.25rem;
+}
+.event-list ul {
+  line-height: 1.6875rem;
+  list-style-position: inside;
+  list-style-type: disc;
+  margin: 1.6875rem 0;
+}
+.event-list ul li,
+.event-list ul li:last-of-type {
+  border: none;
+  display: block list-item;
 }
 .event-summary {
   flex-grow: 1;
