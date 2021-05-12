@@ -107,6 +107,9 @@
     <resource identifier="ga9435efe4c40b2a71f60b5f3828a88ba" type="webcontent" href="wiki_content/observations.html">
       <file href="wiki_content/observations.html"/>
     </resource>
+    <resource identifier="g71f3fd8b274bd2db1b43fc352ebc695c" type="webcontent" href="wiki_content/peer-led-team-learning.html">
+      <file href="wiki_content/peer-led-team-learning.html"/>
+    </resource>
     <resource identifier="g67b3bf99a4d040478c5eeee8ccdfe43b" href="web_resources/DU Theme/style.css" type="webcontent">
       <file href="web_resources/DU Theme/style.css"/>
     </resource>
@@ -118,6 +121,9 @@
     </resource>
     <resource type="webcontent" identifier="g7719243f967b897c797dbf99e91d83c4" href="web_resources/images/learning_styles.jpeg">
       <file href="web_resources/images/learning_styles.jpeg"/>
+    </resource>
+    <resource type="webcontent" identifier="g86f2483295d3013a9769ba719555efd3" href="web_resources/images/pltl_model.png">
+      <file href="web_resources/images/pltl_model.png"/>
     </resource>
   </resources>
 </manifest>
