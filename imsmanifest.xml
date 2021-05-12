@@ -125,5 +125,8 @@
     <resource type="webcontent" identifier="g86f2483295d3013a9769ba719555efd3" href="web_resources/images/pltl_model.png">
       <file href="web_resources/images/pltl_model.png"/>
     </resource>
+    <resource identifier="gfc0616df9953e18e6f3d43193d08d539" type="webcontent" href="wiki_content/professional-associations.html">
+      <file href="wiki_content/professional-associations.html"/>
+    </resource>
   </resources>
 </manifest>
