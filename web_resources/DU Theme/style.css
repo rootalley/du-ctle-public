@@ -22,7 +22,35 @@
 .user_content nav {}
 .user_content section {}
 /* text content */
-.user_content blockquote {}
+.user_content blockquote {
+  background-color: #f9f9f9;
+  border-left-width: 1px;
+  border-top: 1px solid rgb(199, 205, 209);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  margin-top: 3.25rem;
+  padding: 1.6875rem;
+}
+.user_content blockquote::before {
+  align-items: center;
+  background-color: var(--ic-link-color);
+  border-radius: 50%;
+  color: white;
+  content: "\201c";
+  font-family: "EB Garamond";
+  font-size: 4rem;
+  font-weight: bold;
+  display: flex;
+  height: 1.75rem;
+  justify-content: center;
+  margin-top: -3.25rem;
+  padding-top: 1.5rem;
+  width: 3.25rem;
+}
+.user_content blockquote p {
+  font-family: 'EB Garamond', serif;
+  font-size: 1.75rem;
+  line-height: 2.25rem;
+}
 .user_content dd {}
 .user_content div {}
 .user_content dl {}
