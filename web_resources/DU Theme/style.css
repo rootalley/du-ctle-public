@@ -215,6 +215,19 @@
 .event-title {
   font-family: 'EB Garamond', serif;
 }
+.no-rec::before {
+  color: #1896D3;
+  content: "\f057";
+  display: inline-block;
+  font-family: "Font Awesome 5 Free";
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 900;
+  font-size: 1.5rem;
+  padding-right: 0.375rem;
+  position: relative;
+  top: 0.15rem;
+}
 .video-container-16x9 {
   margin-bottom: 1rem;
   overflow: hidden;
